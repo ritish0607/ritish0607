@@ -1,11 +1,9 @@
-### Hi there 👋
+### Hi there, welcome to Ritish's Github Page 👋
 
-<!--
-**ritish0607/ritish0607** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on a very special course
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
